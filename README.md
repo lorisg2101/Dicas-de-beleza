@@ -2,7 +2,7 @@
 
 ## O que faz essa aplicação?
 
-Imagina um detetive digital que vasculha seus arquivos procurando por dicas de beleza de uma forma arrasadora ele ENCONTRA! Essa é a nossa ferramenta de pesquisa. Você digita 
+Imagina um detetive digital que vasculha seus arquivos procurando por dicas de beleza, e de uma forma arrasadora ele ENCONTRA! Essa é a nossa ferramenta de pesquisa. Você digita 
 uma palavra-chave e pronto:todos os resultados que combinam com o que você procurou aparecem na tela, bem organizadinhos e prontos para você explorar.
 
 ## Como usar?
@@ -38,6 +38,7 @@ Quer ajudar a melhorar essa aplicação? Abra um issue ou um pull request no Git
 ## Dúvidas?
 
 Se tiver alguma dúvida, não hesite em entrar em contato!
+email:lorenasg2101@gmail.com
 
 ## Tecnologias utilizadas:
 
